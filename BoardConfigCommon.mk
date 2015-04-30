@@ -19,9 +19,6 @@ include device/sony/msm8960-common/BoardConfigCommon.mk
 # Include path
 TARGET_SPECIFIC_HEADER_PATH += device/sony/fusion3-common/include
 
-# Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := MSM8960
-
 # Platform
 TARGET_BOARD_PLATFORM := msm8960
 BOARD_VENDOR_PLATFORM := fusion3
